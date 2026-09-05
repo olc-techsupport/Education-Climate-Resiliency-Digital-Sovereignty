@@ -60,3 +60,8 @@ Use 9:00–9:10 for team check-ins, 9:10–9:45 for the remaining task, and 9:45
 - At 11:45: hand over to Elisha Yellow Thunder and James Rattling Leaf for the scheduled reflection and conclusion.
 
 Students present what they learned, any work they created, uncertainty, future project ideas, potential beneficiaries and appropriate reviewers, guided by the [seven questions](final_presentation.md). A finished visualization is not required. Instructor participants may use the [lesson adaptation template](../templates/instructor_adaptation.md) as their next-step product. Sharing within the agreed workshop audience does not authorize public release.
+
+
+## Sovereignty checkpoints during project work
+
+Mentors support the three short notebook activities: who shapes the question, what the data represents, and what changes before reuse/sharing. Fit these into the existing student-work blocks and presentation preparation before 10:45 on September 16. There is no added lecture or activity during the final student sharing hour. Students use their provenance and decision notes in the existing seven presentation questions.

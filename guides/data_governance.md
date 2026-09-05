@@ -65,3 +65,8 @@ Use the [stewardship template](../templates/stewardship_record.md) and [assessme
 ## Student sharing
 
 Choose one track and start work after the brief introduction and mentor orientation. Prepare the [seven presentation questions](final_presentation.md). September 16, 10:45–11:45 a.m. is reserved for student sharing. A finished visualization is not required.
+
+
+## Practice inside each notebook
+
+The notebooks include three sovereignty activities and a common provenance exercise. Students record authority to consult, representation limits, benefit, reviewer roles, storage/access, reuse limits and corrections. See [the activity guide](sovereignty_practice.md). Records remain classroom drafts even when every field is filled; unresolved matters need discussion, not invented answers. Public-source classification alone does not resolve new uses or claims about communities.

@@ -63,3 +63,8 @@ Use the same expectations across all three tracks. Do not score notebook quantit
 | Review (7) | Appropriate perspectives or reviewer roles and why they matter |
 
 Students can answer verbally, with a notebook, slides, a poster or an assisted format. No completed visualization is required. Record participation, learning evidence, adaptations and barriers in approved institutional records. Do not publish individual assessments or infer award outcomes from the curriculum alone. Full storage/correction arrangements remain in the stewardship record, separate from the seven presentation questions.
+
+
+## Evidence of sovereignty learning
+
+Within questions 4–7, listen for one specific governance decision, revision of a claim, or unresolved issue with a next step. Students should distinguish source lineage from authority and appropriate use, explain whose perspectives are needed, and describe how a change in audience or purpose could change the decision. Do not grade disclosure of cultural knowledge or require a claimed approval. The notebook provenance record supports this explanation; a completed form is not proof of governance compliance.

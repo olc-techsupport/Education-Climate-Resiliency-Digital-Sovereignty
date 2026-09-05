@@ -28,8 +28,8 @@ These objectives apply across all three tracks. Students demonstrate learning th
 | [Data Investigator](tracks/02_data_investigator.ipynb) | Half day | Compare gauges, periods and illustrative weights | Evidence comparison and explanation of a value choice |
 | [Technical Extender](tracks/03_technical_extender.ipynb) | Half day or extension | Validate low-flow methods, estimators and provenance | Reproducible method comparison and documented limitations |
 
-These tracks are the complete workshop; no additional reference notebook is required. Beginners start with Guided Explorer. Students stay with one chosen track; these are parallel pathways, not a sequence. Shared instruction takes 15–20 minutes, followed by 5–10 minutes of track orientation, then supported project work. For September 15–16, Lilly Jones leads 8½ hours of hackathon activity. See the [event agenda and facilitation outline](guides/event_schedule.md) for the supplied schedule, team milestones and final-session plan.
-
+No additional reference notebook is required for these workflows. Beginners start with Guided Explorer. Students stay with one chosen track; these are parallel pathways, not a sequence. Shared instruction takes about 60 minutes, followed by 15 minutes of track orientation, then supported project work. For September 15–16,  Instructors lead hackathon activity and then Participants work in teams towards Learning Objectives. See the [event agenda and facilitation outline](guides/event_schedule.md) for the supplied schedule, team milestones and final-session plan.
+ 
 ## Start here
 
 ```sh
@@ -53,7 +53,7 @@ Students prepare a [seven-question final presentation](guides/final_presentation
 
 Use teams of 3–5 and rotate navigator, driver, data steward, interpreter and recorder roles. Spoken, typed, drawn or assisted responses are welcome. Follow [accessibility guidance](guides/accessibility.md) and the [beginner cell guide](guides/beginner_cell_guide.md).
 
-The core analysis intentionally uses public-source climate and gauge data. It provides evidence for discussion, not a validated watershed health score, official emergency threshold or causal climate attribution. The investigator's component scores are explicitly illustrative; they are not environmental measurements.
+The core analysis intentionally uses public-source climate and gauge data. It provides evidence for discussion, not a validated watershed health score, official emergency threshold or causal climate attribution. 
 
 Generated results remain classroom drafts until the intended use and appropriate review are established. [Governance guidance](guides/data_governance.md) prioritizes local authority; framework references do not establish Tribal adoption or endorsement.
 
@@ -65,3 +65,8 @@ Generated results remain classroom drafts until the intended use and appropriate
 - [Troubleshooting](guides/troubleshooting.md), [data policy](data/README.md), and [validation](validation.md)
 
 Code and original instructional text use [LICENSE](LICENSE). Cite the resource using [CITATION.cff](CITATION.cff) and cite each source dataset separately. Funding acknowledgments and award numbers must come from the approved award; none are inferred here.
+
+
+## Sovereignty throughout the work
+
+Each track includes three brief group activities on authority/question framing, representation and reuse/sharing. Students maintain decision notes and run a provenance cell with actual source snapshots, settings and unresolved decisions. See [sovereignty practice](guides/sovereignty_practice.md). These activities occur during project work; the short opening instruction and full final hour of student sharing remain unchanged.

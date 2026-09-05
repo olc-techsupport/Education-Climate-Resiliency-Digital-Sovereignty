@@ -53,3 +53,10 @@ Use the seven presentation questions and mentor feedback guidance in [alignment 
 Ask before touching a learner's keyboard. Rotate roles. Accept verbal or assisted responses. Pause for participant concerns, sensitive knowledge, invalid/missing data, unsupported claims or a change in audience. Do not resolve substantive governance questions by inventing an approver.
 
 After class, retain only appropriately authorized learning evidence, record attendance/completion in the institution's approved system, summarize rubric outcomes without publishing participant identities, document barriers, and update the lesson following reviewer feedback.
+
+
+## Facilitate sovereignty as project work
+
+Use the three embedded activities in each notebook: authority and question framing, representation after loading data, and a changed-purpose/audience discussion before reuse. Allow about 3–5 minutes per checkpoint within project work, not another plenary presentation. See [sovereignty practice](sovereignty_practice.md) for track-specific prompts. Have students explain a decision, revised claim or unresolved question with a next step, rather than merely naming a framework. Student notes can remain unresolved; no one is asked to authorize use on behalf of a Nation.
+
+Every track now builds technical and governance provenance from its actual data/settings. The local draft writer does not approve publication. Protect the final student sharing hour and weave decisions into presentation questions 4–7.
