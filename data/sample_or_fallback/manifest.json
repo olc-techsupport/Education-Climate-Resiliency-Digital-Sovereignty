@@ -1,0 +1,63 @@
+{
+  "created_utc": "2026-08-24T19:51:38.747473+00:00",
+  "purpose": "Instructor-prepared public-source fallback for the Ed-py workshop",
+  "warning": "Snapshots are not current live data and are not governance approval.",
+  "sources": [
+    {
+      "file": "census_aiannh_2023.zip",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2023/AIANNH/tl_2023_us_aiannh.zip",
+      "accessed_utc": "2026-08-24T19:51:38.747473+00:00",
+      "status": "downloaded",
+      "bytes": 9086993,
+      "sha256": "4155f58dfefcc40cfe61d741f760f882ebe6c6008537c0c7bc58075871af2f40"
+    },
+    {
+      "file": "census_oglala_lakota_roads_2023.zip",
+      "url": "https://www2.census.gov/geo/tiger/TIGER2023/ROADS/tl_2023_46102_roads.zip",
+      "accessed_utc": "2026-08-24T19:51:38.747473+00:00",
+      "status": "downloaded",
+      "bytes": 726972,
+      "sha256": "8f35e58202792136dc09eff6aa39dede67d4be260596f6f1bb189fe7ca1e7dba"
+    },
+    {
+      "file": "noaa_climate_division_pdsi.txt",
+      "url": "https://www.ncei.noaa.gov/pub/data/cirs/climdiv/climdiv-pdsidv-v1.0.0-20260806",
+      "accessed_utc": "2026-08-24T19:51:38.747473+00:00",
+      "status": "downloaded",
+      "bytes": 4449984,
+      "sha256": "1b8039257ebf2dbdc28dc920b3b574519c21bea527b59830bd86ba1f2f4da2eb"
+    },
+    {
+      "file": "usgs_nwis_06446000_1990_2024.rdb",
+      "url": "https://waterservices.usgs.gov/nwis/dv/?format=rdb&sites=06446000&startDT=1990-01-01&endDT=2024-12-31&parameterCd=00060&statCd=00003",
+      "accessed_utc": "2026-08-24T19:51:38.747473+00:00",
+      "status": "downloaded",
+      "bytes": 419155,
+      "sha256": "5309b831d7ede848a5650c3d3c8cb9aa8740395d32ca75e7e033fe7e985bb521"
+    },
+    {
+      "file": "usgs_nwis_06446500_1990_2024.rdb",
+      "url": "https://waterservices.usgs.gov/nwis/dv/?format=rdb&sites=06446500&startDT=1990-01-01&endDT=2024-12-31&parameterCd=00060&statCd=00003",
+      "accessed_utc": "2026-08-24T19:51:38.747473+00:00",
+      "status": "downloaded",
+      "bytes": 266222,
+      "sha256": "9e50b20f9578515cbbdb6598bd006785e8f645ed17849bd3a0e86b75c5697f60"
+    },
+    {
+      "file": "usgs_nwis_06447000_1990_2024.rdb",
+      "url": "https://waterservices.usgs.gov/nwis/dv/?format=rdb&sites=06447000&startDT=1990-01-01&endDT=2024-12-31&parameterCd=00060&statCd=00003",
+      "accessed_utc": "2026-08-24T19:51:38.747473+00:00",
+      "status": "downloaded",
+      "bytes": 415115,
+      "sha256": "ecd4b12299547f0f9df6d7faa5b62f35004c9c9cd16247b05f8e9d6a2c97f200"
+    },
+    {
+      "file": "usgs_nwis_06447500_1990_2024.rdb",
+      "url": "https://waterservices.usgs.gov/nwis/dv/?format=rdb&sites=06447500&startDT=1990-01-01&endDT=2024-12-31&parameterCd=00060&statCd=00003",
+      "accessed_utc": "2026-08-24T19:51:38.747473+00:00",
+      "status": "downloaded",
+      "bytes": 418950,
+      "sha256": "cb83854eacfaeb5976e871aee567ce9dd37b927d792fec1a8ef28dd2f4f0afef"
+    }
+  ]
+}

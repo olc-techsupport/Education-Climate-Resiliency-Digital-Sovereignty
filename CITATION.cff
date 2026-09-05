@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this learning resource and each source dataset separately."
+title: "Climate Resiliency and Digital Sovereignty Learning Lab"
+type: software
+version: 1.0.0
+date-released: 2026-08-24
+license: MIT
+abstract: "An instructional Earth data science workflow centered on climate resiliency, community interpretation, and data sovereignty."
+keywords:
+  - earth data science
+  - climate resiliency
+  - data sovereignty
+  - geospatial education
+authors:
+  - name: "Lilly Jones, PhD"
