@@ -2,15 +2,15 @@
 
 ## Purpose and preparation
 
-Opening scenario: How can regional drought and streamflow records help frame questions about livestock water availability, and what additional local evidence would we need?
+Opening scenario: How can regional drought and streamflow records help frame questions about water availability, and what additional local evidence would we need?
 
 Offer alternate questions about gardens, grazing, plant resources or watershed stewardship. Ask which local observations would be needed to connect regional indicators to that application. The class need not disclose community-held knowledge to answer.
 
-Three to seven days before class: confirm local framing and participation arrangements; install the core environment on learner hardware; run the environment and snapshot checks; execute the selected track from a clean kernel; prepare accessible materials and identify an appropriate review process for any sharing beyond class. Internet is needed for installation or optional refresh, not for the three prepared-data tracks. Never refresh the snapshot automatically during a workshop.
+Three to seven days before class: confirm local framing and participation arrangements; install the core environment on learner hardware; run the environment and snapshot checks; execute the selected track from a clean kernel; prepare accessible materials and identify an appropriate review process for any sharing beyond class. Internet is needed for installation or optional refresh, not for the three prepared-data tracks.
 
 ## Facilitation approach
 
-Students work in **one of three tracks**, selected with mentor support: Guided Explorer, Data Investigator or Technical Extender. The tracks are parallel choices, not a sequence to complete. Begin with 15–20 minutes of shared instruction, followed by 5–10 minutes of track-group orientation. Students then start working; mentors provide brief demonstrations when a group needs them. A completed visualization is welcome but is not a condition for presenting or demonstrating learning.
+Students work in **one of three tracks**, selected with mentor support: Guided Explorer, Data Investigator or Technical Extender. The tracks are parallel choices, not a sequence to complete. Begin with 60 minutes of shared instruction, followed by 15–30 minutes of track-group orientation. Students then start working; mentors provide brief demonstrations and guidance when a group needs them. A completed visualization is welcome but is not a condition for presenting or demonstrating learning.
 
 Introduce the [seven final presentation questions](final_presentation.md) at the start so students can collect useful notes while working. Preflight machines before the event; do not use a long plenary setup demonstration.
 
@@ -27,13 +27,10 @@ By the end of the hackathon, students should be able to:
 7. **Identify appropriate reviewers or collaborators** and explain how their perspectives could improve interpretation and guide responsible sharing.
 
 These objectives apply across all three tracks. Students demonstrate learning through their final presentations and explanations of completed or attempted work; a finished visualization is not required.
-## Short standalone routes
-
-For a standalone 90-minute Guided Explorer session, use 15 minutes of introduction, 5 minutes of group orientation, 50 minutes of supported work and 20 minutes of reflection/sharing. For a half-day session, retain the same brief introduction and use the additional time for student investigations and sharing. These standalone formats do not replace the event’s reserved final hour.
 
 ## September 15–16 workshop
 
-Lilly Jones (Daear Inc.) leads 8½ scheduled hackathon hours: 6 hours on September 15 and 2½ hours on September 16. Follow the [event agenda and facilitation outline](event_schedule.md), which preserves the supplied opening, meals, lecture, breaks and closing sessions.
+Follow the [event agenda and facilitation outline](event_schedule.md), which preserves the supplied opening, meals, lecture, breaks and closing sessions.
 
 Students remain in their selected track. Use September 15 for supported exploration and September 16 morning to finish attempts and prepare explanations. Complete presentation preparation, class records and saving by 10:45 a.m. Reserve 10:45–11:45 a.m. entirely for students sharing their final work, followed by the handover to the scheduled reflection leaders. Optional evening help is not required. The short routes above remain reusable formats outside this event.
 
@@ -48,7 +45,7 @@ Students remain in their selected track. Use September 15 for supported explorat
 
 ## Assessment and stewardship
 
-Use the seven presentation questions and mentor feedback guidance in [alignment and assessment](alignment_and_assessment.md). Do not require a separate exit ticket during student sharing. Have teams complete the [stewardship record](../templates/stewardship_record.md): source, benefit, storage, audience, reviewer and correction/withdrawal process. Keep review roles separate from actual approval; a completed form does not authorize release.
+Use the seven presentation questions and mentor feedback guidance in [alignment and assessment](alignment_and_assessment.md). Have teams complete the [stewardship record](../templates/stewardship_record.md): source, benefit, storage, audience, reviewer and correction/withdrawal process. Keep review roles separate from actual approval; a completed form does not authorize release.
 
 Ask before touching a learner's keyboard. Rotate roles. Accept verbal or assisted responses. Pause for participant concerns, sensitive knowledge, invalid/missing data, unsupported claims or a change in audience. Do not resolve substantive governance questions by inventing an approver.
 

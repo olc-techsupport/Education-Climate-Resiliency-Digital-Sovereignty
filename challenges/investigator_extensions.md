@@ -5,7 +5,7 @@ Complete one card after the default workflow works. Record the original choice, 
 ## Card 1: Time-window sensitivity
 
 - **Prerequisite:** Parts 2–4 complete
-- **Estimated time:** 30 minutes
+- **Estimated time:** 30-60 minutes
 - **Task:** Change one start year, rerun only the dependent cells in order, and compare trend direction, magnitude, and data coverage.
 - **Done when:** You can explain why selecting a period is an analytical choice, not housekeeping.
 

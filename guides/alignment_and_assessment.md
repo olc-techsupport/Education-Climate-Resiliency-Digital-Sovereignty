@@ -1,6 +1,6 @@
 # OLC NIFA learning alignment and assessment
 
-This curriculum mapping supports discussion of OLC NIFA alignment; it is not a certification against an award. The approved award objectives and deliverables were not provided. OLC should complete the final column using that award and retain institutional review in its own records.
+This curriculum mapping supports discussion of OLC NIFA alignment. The approved award objectives and deliverables were not provided. OLC should complete the final column using that award and retain institutional review in its own records.
 
 | Proposed learning aim | Activity | Evidence | Approved award objective / owner |
 | --- | --- | --- | --- |

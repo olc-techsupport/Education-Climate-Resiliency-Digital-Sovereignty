@@ -24,15 +24,6 @@ Choose one pathway with your team:
 
 Success is not measured by how many cells you finish. Success means your team can explain what one result shows, what it does not show, where its data came from, and who should decide whether it is shared.
 
-## Four kinds of action
-
-The notebook cannot display these colors directly, so use this key with the cell guide:
-
-- **GREEN: Run:** run the cell without editing it.
-- **YELLOW: Customize:** change only the marked value, then run it.
-- **BLUE: Discuss:** no code is required; talk and record your answer.
-- **RED: Pause:** stop and ask a mentor before changing code or sharing an output.
-
 ## Notebook controls you need
 
 1. Click a cell once to select it.
@@ -52,7 +43,7 @@ The notebook cannot display these colors directly, so use this key with the cell
 
 ## Team workflow
 
-Assign a navigator, driver, data steward, interpreter, and recorder. Rotate after each major part. Anyone can call a pause when a result or sharing decision needs more context.
+Allow teams to choose a navigator, driver, data steward, interpreter, and recorder. Rotate after each major part. Anyone can call a pause when a result or sharing decision needs more context.
 
 ## Before sharing
 
