@@ -10,4 +10,4 @@ Track: ___  Project/team alias: ___
 6. **Who might benefit from this work?** Explain the potential benefit without claiming an outcome the project has not demonstrated.
 7. **Who should review or help interpret this work?** Identify relevant people or roles and why their perspective matters; naming a reviewer does not imply approval.
 
-Use brief notes under each prompt. No seven-slide requirement. Keep completed notes in the agreed class location. Presentation time: September 16, 10:45–11:45 a.m.; be ready by 10:45.
+Use brief notes under each prompt. Keep completed notes in the agreed class location. Presentation time: September 16, 10:45–11:45 a.m.; be ready by 10:45.

@@ -24,11 +24,11 @@ These objectives apply across all three tracks. Students demonstrate learning th
 
 | Pathway | Time | Activity | Learner product |
 | --- | --- | --- | --- |
-| [Guided Explorer](tracks/01_guided_explorer.ipynb) | 90 minutes | Read a prepared regional drought record | Figure interpretation, limitation and stewardship record |
-| [Data Investigator](tracks/02_data_investigator.ipynb) | Half day | Compare gauges, periods and illustrative weights | Evidence comparison and explanation of a value choice |
-| [Technical Extender](tracks/03_technical_extender.ipynb) | Half day or extension | Validate low-flow methods, estimators and provenance | Reproducible method comparison and documented limitations |
+| [Guided Explorer](tracks/01_guided_explorer.ipynb) | Read a prepared regional drought record | Figure interpretation, limitation and stewardship record |
+| [Data Investigator](tracks/02_data_investigator.ipynb) | Compare gauges, periods and illustrative weights | Evidence comparison and explanation of a value choice |
+| [Technical Extender](tracks/03_technical_extender.ipynb) | Validate low-flow methods, estimators and provenance | Reproducible method comparison and documented limitations |
 
-No additional reference notebook is required for these workflows. Beginners start with Guided Explorer. Students stay with one chosen track; these are parallel pathways, not a sequence. Shared instruction takes about 60 minutes, followed by 15 minutes of track orientation, then supported project work. For September 15–16,  Instructors lead hackathon activity and then Participants work in teams towards Learning Objectives. See the [event agenda and facilitation outline](guides/event_schedule.md) for the supplied schedule, team milestones and final-session plan.
+No additional reference notebook is required for these workflows. Beginners start with Guided Explorer. Students stay with one chosen track; these are parallel pathways. Shared instruction takes about 60 minutes, followed by 15 minutes of track orientation, then supported project work. For September 15–16,  Instructors lead hackathon activity and then Participants work in teams towards Learning Objectives. See the [event agenda and facilitation outline](guides/event_schedule.md) for the supplied schedule, team milestones and final-session plan.
  
 ## Start here
 
@@ -45,9 +45,9 @@ The included snapshots have a dated [manifest](data/sample_or_fallback/manifest.
 
 ## Learning and OLC NIFA alignment
 
-The activities support environmental data literacy, experiential learning, instructor capacity and responsible stewardship. [Alignment and assessment](guides/alignment_and_assessment.md) maps learning aims to activities and evidence. This is a proposed curriculum mapping; OLC must map it to the actual approved award objectives before using it as grant reporting evidence.
+The activities support environmental data literacy, experiential learning, instructor capacity and responsible stewardship. [Alignment and assessment](guides/alignment_and_assessment.md) maps learning aims to activities and evidence. This is a proposed curriculum mapping; OLC must map it to the actual approved award objectives.
 
-Students prepare a [seven-question final presentation](guides/final_presentation.md) about their question, learning, created or attempted work, uncertainty, future projects, potential beneficiaries and reviewers. Any visualizations should include source, place, period and meaning; a finished visualization is not required. Keep the practical [stewardship record](templates/stewardship_record.md) in agreed class storage. No culturally sensitive knowledge is required to complete the lesson. Cultural reflection prompts should use locally selected framing and can be replaced or declined.
+Students prepare a [seven-question final presentation](guides/final_presentation.md) about their question, learning, created or attempted work, uncertainty, future projects, potential beneficiaries and reviewers. Any visualizations should include source, place, period and meaning. Keep the practical [stewardship record](templates/stewardship_record.md) in agreed class storage. No culturally sensitive knowledge is required to complete the lesson. Cultural reflection prompts should use locally selected framing and can be replaced or declined.
 
 ## Workshop use
 

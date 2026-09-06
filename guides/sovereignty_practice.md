@@ -24,7 +24,7 @@ The record describes the notebook's in-memory results, not a separately exported
 
 ## Sources and adaptation
 
-Lilly Jones's [Tribal Data Sovereignty Toolkit](https://github.com/daearconsulting/IDSov_toolkit), especially its provenance, adaptation and water-monitoring materials, informed these activities. This repository uses original teaching prompts and a small local helper; it does not copy the toolkit code/templates or require installing its AGPL-licensed package.
+The [Tribal Data Sovereignty Toolkit](https://github.com/daearconsulting/IDSov_toolkit), especially its provenance, adaptation and water-monitoring materials, informed these activities. This repository uses original teaching prompts and a small local helper; it does not copy the toolkit code/templates or require installing its AGPL-licensed package.
 
 [GIDA's CARE principles](https://www.gida-global.org/careprinciples) emphasize collective benefit, authority, responsibility and ethics. [IEEE 2890-2025](https://standards.ieee.org/ieee/2890/10318/) describes a recommended practice for provenance of Indigenous Peoples' data. These are educational references; the exercises do not claim conformance or local adoption. Locally chosen protocols and authorized direction remain essential. FAIR and OCAP® may be discussed using the distinctions in [data governance](data_governance.md), rather than treating frameworks as interchangeable certifications.
 
