@@ -2,11 +2,15 @@
 
 ## Purpose and preparation
 
-Opening scenario: How can regional drought and streamflow records help frame questions about water availability, and what additional local evidence would we need?
+Example scenario for team question development: How can regional drought and streamflow records help frame questions about water availability, and what additional local evidence would we need?
 
-Offer alternate questions about gardens, grazing, plant resources or watershed stewardship. Ask which local observations would be needed to connect regional indicators to that application. The class need not disclose community-held knowledge to answer.
+Each team develops its own question. Offer examples about gardens, grazing, plant resources or watershed stewardship to help teams get started. Ask which local observations would be needed to connect regional indicators to that application. The class need not disclose community-held knowledge to answer.
 
 Three to seven days before class: confirm local framing and participation arrangements; install the core environment on learner hardware; run the environment and snapshot checks; execute the selected track from a clean kernel; prepare accessible materials and identify an appropriate review process for any sharing beyond class. Internet is needed for installation or optional refresh, not for the three prepared-data tracks.
+
+Prepare all required data and software before arrival. Test the selected notebooks with networking disabled and distribute local copies. Do not install packages, refresh snapshots or rely on remote services during the event.
+
+The [optional xarray extension](../challenges/optional_xarray_cube.md) may be offered on a prepared instructor or mentor machine only after its exact files and workflow pass an offline check. It is not a prerequisite, primary learning target or assessment requirement. The core environment does not include xarray. Do not adopt the full data cube tutorial environment. ODC is outside this event's instruction and implementation scope; ODC and possible Cubedynamics implementation are deferred until tested at OLC. Keep the scheduled invited lecture separate from software implementation.
 
 ## Facilitation approach
 
@@ -54,6 +58,6 @@ After class, retain only appropriately authorized learning evidence, record atte
 
 ## Facilitate sovereignty as project work
 
-Use the three embedded activities in each notebook: authority and question framing, representation after loading data, and a changed-purpose/audience discussion before reuse. Allow about 3–5 minutes per checkpoint within project work, not another plenary presentation. See [sovereignty practice](sovereignty_practice.md) for track-specific prompts. Have students explain a decision, revised claim or unresolved question with a next step, rather than merely naming a framework. Student notes can remain unresolved; no one is asked to authorize use on behalf of a Nation.
+Use the three embedded activities in each notebook: authority and question framing, representation after loading data, and a changed-purpose/audience discussion before reuse. See [sovereignty practice](sovereignty_practice.md) for track-specific prompts. Have students explain a decision, revised claim or unresolved question with a next step. Student notes can remain unresolved; no one is asked to authorize use on behalf of a Nation.
 
-Every track now builds technical and governance provenance from its actual data/settings. The local draft writer does not approve publication. Protect the final student sharing hour and weave decisions into presentation questions 4–7.
+Every track now builds technical and governance provenance from its actual data/settings. The draft writer does not approve publication. Protect the final student sharing hour and weave decisions into presentation questions 4-7.

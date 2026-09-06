@@ -29,7 +29,13 @@ All times are event-local. The time blocks below preserve the organizers’ draf
 | 11:45 a.m. | Reflection and conclusion | Elisha Yellow Thunder, OLC; James Rattling Leaf, UC Boulder ESIIL |
 | 12:00 p.m. | Lunch, adjournment and optional campus tour | — |
 
-## Lilly's facilitation outline
+## Scope within the scheduled blocks
+
+Each team develops its own question using the available local data. The three pathways are the core activities. Use prepared machines and files without internet access, installation or data refresh during the event.
+
+Interested teams may use the [optional xarray extension](../challenges/optional_xarray_cube.md) during day-one project time if a prepared machine and offline-tested workflow are available. It adds no required session or deliverable. Cubedynamics implementation is deferred to a later iteration after feasability testing at OLC. Preserve the full final hour for student sharing.
+
+## Facilitation outline
 
 ### September 15, 9:30–10:30: brief instruction, then work
 

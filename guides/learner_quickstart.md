@@ -16,6 +16,8 @@ These objectives apply across all three tracks. Students demonstrate learning th
 
 ## Before you begin
 
+Develop a question with your team, then choose a pathway that can help you explore it using the available data. Different teams can ask different questions. Use the prepared machine and local files; no internet or package installation is needed during the workshop.
+
 Choose one pathway with your team:
 
 - **Guided Explorer:** open `tracks/01_guided_explorer.ipynb`; edit only marked values and explain one finding.
@@ -28,7 +30,7 @@ Success is not measured by how many cells you finish. Success means your team ca
 
 1. Click a cell once to select it.
 2. Press **Shift+Enter** to run it and move to the next cell.
-3. `[*]` means a cell is still running. Wait before starting another download.
+3. `[*]` means a cell is still running. Wait before running the next cell; these activities use local data.
 4. A number such as `[7]` means the cell completed.
 5. Red text means the cell stopped. Copy the last line and the cell heading when asking for help.
 6. If cells were run out of order, use **Kernel -> Restart Kernel and Run All Cells** only after saving your reflection text elsewhere.
@@ -58,3 +60,9 @@ Use the [stewardship template](../templates/stewardship_record.md) and [assessme
 ## Student sharing
 
 Choose one track and start work after the brief introduction and mentor orientation. Prepare the [seven presentation questions](final_presentation.md). September 16, 10:45–11:45 a.m. is reserved for student sharing. A finished visualization is not required.
+
+## Optional data cube extension
+
+Interested teams may explore a [small xarray cube](../challenges/optional_xarray_cube.md) with mentor support on a prepared, offline-tested machine. This is optional across the pathways and is not required for your presentation or assessment. Continue with your chosen pathway if the extension is not available.
+
+For more information about data cubes, explore the [OLC Data Cube Tutorial](https://github.com/olc-techsupport/Education-data_cube_tutorial) when internet access is available. This is an optional resource for further study, not required workshop preparation.

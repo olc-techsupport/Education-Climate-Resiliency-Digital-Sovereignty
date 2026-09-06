@@ -2,9 +2,9 @@
 
 A complete three-pathway workshop for OLC learners and instructors, connecting public environmental data, agricultural questions, interpretation and data stewardship. The regional example concerns Pine Ridge and the White River watershed.
 
-**Opening question:** How can regional drought and streamflow records help frame questions about livestock water availability, and what additional local evidence would we need?
+**Example question to help teams get started:** How can regional drought and streamflow records help frame questions about livestock water availability, and what additional local evidence would we need?
 
-Teams may instead frame a question about grazing, gardens, plant resources or watershed stewardship. Regional drought and streamflow provide context; they do not establish pasture condition, drinking-water quality, irrigation supply or a management threshold.
+Each team develops its own question, supported by its chosen pathway and the available local data. Examples include grazing, gardens, plant resources or watershed stewardship; no full-group agreement on a single question is needed. Regional drought and streamflow provide context; they do not establish pasture condition, drinking-water quality, irrigation supply or a management threshold.
 
 ## Learning objectives
 
@@ -30,7 +30,17 @@ These objectives apply across all three tracks. Students demonstrate learning th
 
 No additional reference notebook is required for these workflows. Beginners start with Guided Explorer. Students stay with one chosen track; these are parallel pathways. Shared instruction takes about 60 minutes, followed by 15 minutes of track orientation, then supported project work. For September 15–16,  Instructors lead hackathon activity and then Participants work in teams towards Learning Objectives. See the [event agenda and facilitation outline](guides/event_schedule.md) for the supplied schedule, team milestones and final-session plan.
  
+## Event scope and optional extension
+
+Read the [event description](guides/event_blurb.md). The three pathways remain the core workshop. Required activities use prepared local data and must run without internet access during the event.
+
+A [simple xarray data cube](challenges/optional_xarray_cube.md) is an optional extension for interested teams. Offer it only on a prepared machine after offline testing. ODC and possibly Cubedynamics implementation are future work after testing at OLC.
+
+For more information about data cubes, explore the [OLC Data Cube Tutorial](https://github.com/olc-techsupport/Education-data_cube_tutorial). This is an optional resource for further study, not required workshop preparation.
+
 ## Start here
+
+Participants use a prepared workshop machine and begin with readiness below. The following setup commands are for instructors before the event, where internet is available. Do not install packages or refresh data during the workshop.
 
 ```sh
 conda env create -f environment.yml
@@ -51,7 +61,7 @@ Students prepare a [seven-question final presentation](guides/final_presentation
 
 ## Workshop use
 
-Use teams of 3–5 and rotate navigator, driver, data steward, interpreter and recorder roles. Spoken, typed, drawn or assisted responses are welcome. Follow [accessibility guidance](guides/accessibility.md) and the [beginner cell guide](guides/beginner_cell_guide.md).
+Use teams of 3-5 and rotate navigator, driver, data steward, interpreter and recorder roles. Spoken, typed, drawn or assisted responses are welcome. Follow [accessibility guidance](guides/accessibility.md) and the [beginner cell guide](guides/beginner_cell_guide.md).
 
 The core analysis intentionally uses public-source climate and gauge data. It provides evidence for discussion, not a validated watershed health score, official emergency threshold or causal climate attribution. 
 
