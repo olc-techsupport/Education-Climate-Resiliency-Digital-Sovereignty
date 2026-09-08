@@ -19,7 +19,7 @@ See the [extension design and preparation checklist](optional_xarray_cube.md). I
 
 - **Prerequisite:** regression and SciPy
 - **Estimated time:** 2 hours
-- Compare ordinary least squares with a robust estimator such as Theil–Sen.
+- Compare ordinary least squares with an estimator such as Theil–Sen.
 - Report slope, uncertainty, assumptions, and sensitivity to start/end years.
 - **Done when:** Narrative and implementation name the same method and a reproducible comparison is included.
 

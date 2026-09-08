@@ -7,13 +7,13 @@ Complete one card after the default workflow works. Record the original choice, 
 - **Prerequisite:** Parts 2–4 complete
 - **Estimated time:** 30-60 minutes
 - **Task:** Change one start year, rerun only the dependent cells in order, and compare trend direction, magnitude, and data coverage.
-- **Done when:** You can explain why selecting a period is an analytical choice, not housekeeping.
+- **Done when:** You can explain why selecting a period is an analytical choice.
 
 ## Card 2: Gauge comparison
 
 - **Prerequisite:** Streamflow data loaded
 - **Estimated time:** 45 minutes
-- **Task:** Compare two gauges separately rather than treating the network as one series.
+- **Task:** Compare two gauges separately.
 - **Done when:** Your chart identifies gauge, units, period, missingness, and geographic limitation.
 
 ## Card 3: Weight sensitivity
