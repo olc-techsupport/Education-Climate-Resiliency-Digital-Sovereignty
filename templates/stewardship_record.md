@@ -1,6 +1,6 @@
 # Team stewardship record
 
-Use only non-sensitive classroom information. Describe reviewer roles rather than entering personal contact details in a public repository. This record documents a plan, not approval.
+Use only non-sensitive classroom information.                                                                                                 
 
 - Team alias/activity/date:
 - Agricultural or stewardship question:

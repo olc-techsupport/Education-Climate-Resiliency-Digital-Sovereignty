@@ -15,4 +15,4 @@
 
 ## Student sharing
 
-Choose one track and start work after the brief introduction and mentor orientation. Prepare the [seven presentation questions](../guides/final_presentation.md). September 16, 10:45–11:45 a.m. is reserved for student sharing. A finished visualization is not required.
+Choose one track and start work after the brief introduction and mentor orientation. Prepare the [seven presentation questions](../guides/final_presentation.md). 
