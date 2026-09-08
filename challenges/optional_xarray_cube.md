@@ -2,7 +2,7 @@
 
 **Status:** This is optional for interested teams in any pathway and is not a primary target or assessment requirement. Each team keeps its own question.
 
-Use the local tutorial at `C:\Users\gekek\Documents\OLC_DC_tutorial\data_cube_tutorial` as a reference. Its arrays/dimensions and time-selection activities are relevant, and its `data/cache` folder contains local NDVI CSVs. 
+Use the [OLC Data Cube Tutorial](https://github.com/olc-techsupport/Education-data_cube_tutorial) as a reference when internet access is available, or use a copy prepared by your instructor. Its arrays/dimensions and time-selection activities are relevant, and its `data/cache` folder contains local NDVI CSVs.
 
 The smallest useful extension is to read prepared local observations with pandas, organize them in an xarray DataArray with named time and site dimensions, select a period, and produce one comparison connected to the team's question. Preserve missing observations and document source, spatial support, time coverage and units.
 
