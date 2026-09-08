@@ -66,3 +66,7 @@ Choose one track and start work after the brief introduction and mentor orientat
 Interested teams may explore a [small xarray cube](../challenges/optional_xarray_cube.md) with mentor support on a prepared, offline-tested machine. This is optional across the pathways and is not required for your presentation or assessment. Continue with your chosen pathway if the extension is not available.
 
 For more information about data cubes, explore the [OLC Data Cube Tutorial](https://github.com/olc-techsupport/Education-data_cube_tutorial) when internet access is available. This is an optional resource for further study, not required workshop preparation.
+
+## Find ideas for your project
+
+Use the [OLC project resource guide](project_resources.md) to find code and inspiration across nine repositories. Choose examples that support the question your team develops. During the event, use prepared local copies; save other ideas for future work when internet is available.

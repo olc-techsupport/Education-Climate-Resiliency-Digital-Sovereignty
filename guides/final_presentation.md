@@ -19,3 +19,7 @@ These questions provide evidence for the [seven learning objectives](alignment_a
 Students should share speaking roles where comfortable; assisted and nonvisual formats are welcome. Technical difficulties and unfinished attempts can support a useful account of learning.
 
 Show only material appropriate for the agreed workshop audience. Describe sensitive context without disclosing protected knowledge or exact locations. Keep the full stewardship record in approved class storage; the presentation only needs the benefit and review discussion.
+
+## Inspiration for future projects
+
+For your future-project answer, the [OLC project resource guide](project_resources.md) connects nine repositories to possible interests. Name a useful example and explain the data, skills or partnerships needed to adapt it. Exploring another repository is optional.

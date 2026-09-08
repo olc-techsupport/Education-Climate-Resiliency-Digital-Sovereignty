@@ -4,7 +4,7 @@ A complete three-pathway workshop for OLC learners and instructors, connecting p
 
 **Example question to help teams get started:** How can regional drought and streamflow records help frame questions about livestock water availability, and what additional local evidence would we need?
 
-Each team develops its own question, supported by its chosen pathway and the available local data. Examples include grazing, gardens, plant resources or watershed stewardship; no full-group agreement on a single question is needed. Regional drought and streamflow provide context; they do not establish pasture condition, drinking-water quality, irrigation supply or a management threshold.
+Each team develops its own question, supported by its chosen pathway and the available local data. Examples include grazing, gardens, plant resources or watershed stewardship. Regional drought and streamflow provide context; they do not establish pasture condition, drinking-water quality, irrigation supply or a management threshold.
 
 ## Learning objectives
 
@@ -18,7 +18,7 @@ By the end of the hackathon, students should be able to:
 6. **Describe potential community benefits** and explain who might find the work useful.
 7. **Identify appropriate reviewers or collaborators** and explain how their perspectives could improve interpretation and guide responsible sharing.
 
-These objectives apply across all three tracks. Students demonstrate learning through their final presentations and explanations of completed or attempted work; a finished visualization is not required.
+These objectives apply across all three tracks. Students demonstrate learning through their final presentations and explanations of completed or attempted work.
 
 ## Choose a pathway
 
@@ -32,15 +32,15 @@ No additional reference notebook is required for these workflows. Beginners star
  
 ## Event scope and optional extension
 
-Read the [event description](guides/event_blurb.md). The three pathways remain the core workshop. Required activities use prepared local data and must run without internet access during the event.
+Read the [event description](guides/event_blurb.md).                                                                                        
 
-A [simple xarray data cube](challenges/optional_xarray_cube.md) is an optional extension for interested teams. Offer it only on a prepared machine after offline testing. ODC and possibly Cubedynamics implementation are future work after testing at OLC.
+A [simple xarray data cube](challenges/optional_xarray_cube.md) is an optional extension for interested teams.                                
 
-For more information about data cubes, explore the [OLC Data Cube Tutorial](https://github.com/olc-techsupport/Education-data_cube_tutorial). This is an optional resource for further study, not required workshop preparation.
+For more information about data cubes, explore the [OLC Data Cube Tutorial](https://github.com/olc-techsupport/Education-data_cube_tutorial). This is an optional resource for further study.
 
 ## Start here
 
-Participants use a prepared workshop machine and begin with readiness below. The following setup commands are for instructors before the event, where internet is available. Do not install packages or refresh data during the workshop.
+Participants use a prepared workshop machine and begin with readiness below. The following setup commands are for instructors before the event, where internet is available.                                                                           
 
 ```sh
 conda env create -f environment.yml
@@ -49,13 +49,13 @@ python scripts/check_environment.py
 jupyter lab
 ```
 
-Open [readiness](onboarding/00_readiness_check.ipynb), then the chosen track. The core environment supports all three tracks. Installation requires internet; the prepared-data activities run offline afterward. The optional data-refresh script requires internet and should be run by instructors before an event, not by every learner.
+Open [readiness](onboarding/00_readiness_check.ipynb), then the chosen track. The optional data-refresh script should be run by instructors before an event.
 
-The included snapshots have a dated [manifest](data/sample_or_fallback/manifest.json). Run `python scripts/verify_snapshots.py` before class. These are historical source snapshots, not current conditions. Never replace missing observations with zero.
+The included snapshots have a dated [manifest](data/sample_or_fallback/manifest.json). Run `python scripts/verify_snapshots.py` before class. These are historical source snapshots, not current conditions.                                                                                            
 
 ## Learning and OLC NIFA alignment
 
-The activities support environmental data literacy, experiential learning, instructor capacity and responsible stewardship. [Alignment and assessment](guides/alignment_and_assessment.md) maps learning aims to activities and evidence. This is a proposed curriculum mapping; OLC must map it to the actual approved award objectives.
+The activities support environmental data literacy, experiential learning, instructor capacity and responsible stewardship. [Alignment and assessment](guides/alignment_and_assessment.md) maps learning aims to activities and evidence. This is a proposed curriculum mapping that needs review and approval by OLC.
 
 Students prepare a [seven-question final presentation](guides/final_presentation.md) about their question, learning, created or attempted work, uncertainty, future projects, potential beneficiaries and reviewers. Any visualizations should include source, place, period and meaning. Keep the practical [stewardship record](templates/stewardship_record.md) in agreed class storage. No culturally sensitive knowledge is required to complete the lesson. Cultural reflection prompts should use locally selected framing and can be replaced or declined.
 
@@ -80,3 +80,7 @@ Code and original instructional text use [LICENSE](LICENSE). Cite the resource u
 ## Sovereignty throughout the work
 
 Each track includes three brief group activities on authority/question framing, representation and reuse/sharing. Students maintain decision notes and run a provenance cell with actual source snapshots, settings and unresolved decisions. See [sovereignty practice](guides/sovereignty_practice.md). These activities occur during project work; the short opening instruction and full final hour of student sharing remain unchanged.
+
+## Project code and inspiration
+
+Browse the [other OLC project repositories](guides/project_resources.md) for code, data sources and ideas for your team question or a future project. These are optional resources.
