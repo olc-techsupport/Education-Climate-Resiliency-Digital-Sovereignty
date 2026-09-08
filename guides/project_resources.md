@@ -14,6 +14,7 @@ Each team develops its own question. Use this guide to find examples, data sourc
 | Soils and geology | [Tribal Soils and Geology](https://github.com/olc-techsupport/Geology-soils-geology) | Code and workflows for exploring soils and geological context. What soil or geologic information could help frame your question? |
 | Geologic maps | [Historical Geologic Maps](https://github.com/olc-techsupport/Geospatial-historical_geologic_maps) | A guided map notebook and example outputs. Compare map coverage, dates and source information. |
 | Organizing observations with xarray | [Data Cube Tutorial](https://github.com/olc-techsupport/Education-data_cube_tutorial) | Arrays, named dimensions and selecting observations through time. Further study for the optional cube extension. |
+| Bounding Boxes | [Pine Ridge Bounding Boxes](https://github.com/olc-techsupport/Geospatial-Pine-Ridge-Bounding-Boxes) | Bounding boxes for Pine Ridge Reservation and individual communities. |
 
 ## Turning an example into your own project
 

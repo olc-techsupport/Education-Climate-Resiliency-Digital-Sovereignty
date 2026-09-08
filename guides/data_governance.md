@@ -1,6 +1,6 @@
 # Data governance and responsible sharing
 
-This guide is a starting point for discussion, not a substitute for the Oglala Tribe's laws, policies, protocols, departmental review, or community direction.
+This guide is a starting point for discussion, pending review by Oglala Lakota College to align with the Tribe's laws, policies, protocols, departmental review, and community direction.
 
 ## Five checks
 
@@ -40,7 +40,7 @@ Federal data may be legally public while analysis or redistribution still carrie
 
 ## Framework language
 
-CARE, FAIR, OCAP®, and other frameworks can support learning, but they are not interchangeable and are not evidence that a particular Nation has adopted them. OCAP® is associated with First Nations data governance in Canada. Materials concerning Oglala Lakota lands and waters should prioritize locally selected language and locally authorized governance.
+CARE, FAIR, OCAP®, and other frameworks can support learning, but they are not interchangeable and are not evidence that a particular Nation has adopted them. Materials concerning Oglala Lakota resources should prioritize locally selected language and locally authorized governance.
 
 ## Output status labels
 

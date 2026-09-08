@@ -12,11 +12,11 @@ By the end of the hackathon, students should be able to:
 6. **Describe potential community benefits** and explain who might find the work useful.
 7. **Identify appropriate reviewers or collaborators** and explain how their perspectives could improve interpretation and guide responsible sharing.
 
-These objectives apply across all three tracks. Students demonstrate learning through their final presentations and explanations of completed or attempted work; a finished visualization is not required.
+These objectives apply across all three tracks. Students demonstrate learning through their final presentations and explanations of completed or attempted work.
 
 ## Before you begin
 
-Develop a question with your team, then choose a pathway that can help you explore it using the available data. Different teams can ask different questions. Use the prepared machine and local files; no internet or package installation is needed during the workshop.
+Develop a question with your team, then choose a pathway that can help you explore it using the available data. Different teams can ask different questions.                                                                                                                                   
 
 Choose one pathway with your team:
 
@@ -49,7 +49,7 @@ Allow teams to choose a navigator, driver, data steward, interpreter, and record
 
 ## Before sharing
 
-Do not treat generated figures or reports as approved findings. Check the data source, date, units, geographic fit, uncertainty, proxy choices, and governance expectations. Community knowledge should never be entered merely because a notebook asks for it.
+Check the data source, date, units, geographic fit, uncertainty, proxy choices, and governance expectations.                                       
 
 
 ## Complete the practical record
@@ -59,14 +59,14 @@ Use the [stewardship template](../templates/stewardship_record.md) and [assessme
 
 ## Student sharing
 
-Choose one track and start work after the brief introduction and mentor orientation. Prepare the [seven presentation questions](final_presentation.md). September 16, 10:45–11:45 a.m. is reserved for student sharing. A finished visualization is not required.
+Choose one track and start work after the brief introduction and mentor orientation. Prepare the [seven presentation questions](final_presentation.md). September 16, 10:45–11:45 a.m. is reserved for student sharing.                                                                             
 
 ## Optional data cube extension
 
-Interested teams may explore a [small xarray cube](../challenges/optional_xarray_cube.md) with mentor support on a prepared, offline-tested machine. This is optional across the pathways and is not required for your presentation or assessment. Continue with your chosen pathway if the extension is not available.
+Interested teams may explore a [small xarray cube](../challenges/optional_xarray_cube.md) with mentor support. This is optional across the pathways and is not required for your presentation or assessment.                                                                                        
 
-For more information about data cubes, explore the [OLC Data Cube Tutorial](https://github.com/olc-techsupport/Education-data_cube_tutorial) when internet access is available. This is an optional resource for further study, not required workshop preparation.
+For more information about data cubes, explore the [OLC Data Cube Tutorial](https://github.com/olc-techsupport/Education-data_cube_tutorial). This is an optional resource for further study.
 
 ## Find ideas for your project
 
-Use the [OLC project resource guide](project_resources.md) to find code and inspiration across nine repositories. Choose examples that support the question your team develops. During the event, use prepared local copies; save other ideas for future work when internet is available.
+Use the [OLC project resource guide](project_resources.md) to find code and inspiration across nine repositories. Choose examples that support the question your team develops.                                                                                           

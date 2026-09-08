@@ -1,6 +1,6 @@
 # OLC NIFA learning alignment and assessment
 
-This curriculum mapping supports discussion of OLC NIFA alignment. The approved award objectives and deliverables were not provided. OLC should complete the final column using that award and retain institutional review in its own records.
+This curriculum mapping supports discussion of OLC NIFA alignment. OLC should complete the final column using the award and retain institutional review in its own records.
 
 | Proposed learning aim | Activity | Evidence | Approved award objective / owner |
 | --- | --- | --- | --- |
@@ -8,8 +8,6 @@ This curriculum mapping supports discussion of OLC NIFA alignment. The approved 
 | Experiential analysis and critical reasoning | Gauge/time-window comparison | Comparison explaining coverage and sensitivity | OLC to map |
 | Responsible data stewardship | Complete review/storage record | Stewardship record with correction process | OLC to map |
 | Instructor capacity and reusable instruction | Adapt and teach back a route | Lesson adaptation plan and peer feedback | OLC to map |
-
-NIFA describes Tribal education and community-learning programs in its [Tribal programs overview](https://www.nifa.usda.gov/grants/programs/nifa-tribal-programs) and [Education Equity program](https://www.nifa.usda.gov/grants/programs/tribal-colleges-equity-grants-program-tceg). These references explain the general educational fit; they do not establish which program funds this project.
 
 ## Learning objectives
 
@@ -33,7 +31,7 @@ These objectives apply across all three tracks. Students demonstrate learning th
 4. **What remains uncertain?** Identify a limitation, challenge or unanswered question.
 5. **What would you investigate next?** Suggest a future project and the data, skills or partnerships it would need.
 6. **Who might benefit from this work?** Explain the potential benefit without claiming an outcome the project has not demonstrated.
-7. **Who should review or help interpret this work?** Identify relevant people or roles and why their perspective matters; naming a reviewer does not imply approval.
+7. **Who should review or help interpret this work?** Identify relevant people or roles and why their perspective matters.
 
 See [presentation guidance](final_presentation.md) and the [planning sheet](../templates/final_presentation.md). The final hour is for sharing and questions; assessment notes are taken by instructors without interrupting that time for forms.
 
@@ -51,7 +49,7 @@ See [presentation guidance](final_presentation.md) and the [planning sheet](../t
 
 ## Formative feedback
 
-Use the same expectations across all three tracks. Do not score notebook quantity, technical complexity or cultural knowledge. A clear account of an unsuccessful attempt can demonstrate learning. Use “needs support,” “developing” or “demonstrated” to guide feedback rather than imposing a numeric passing score.
+Use the same expectations across all three tracks. Do not score notebook quantity, technical complexity or cultural knowledge. A clear account of an unsuccessful attempt can still demonstrate learning. 
 
 | Presentation evidence | Mentor looks for |
 | --- | --- |
@@ -67,4 +65,4 @@ Students can answer verbally, with a notebook, slides, a poster or an assisted f
 
 ## Evidence of sovereignty learning
 
-Within questions 4–7, listen for one specific governance decision, revision of a claim, or unresolved issue with a next step. Students should distinguish source lineage from authority and appropriate use, explain whose perspectives are needed, and describe how a change in audience or purpose could change the decision. Do not grade disclosure of cultural knowledge or require a claimed approval. The notebook provenance record supports this explanation; a completed form is not proof of governance compliance.
+Within questions 4–7, listen for one specific governance decision, revision of a claim, or unresolved issue with a next step. Students should distinguish source lineage from authority and appropriate use, explain whose perspectives are needed, and describe how a change in audience or purpose could change the decision. The notebook provenance record supports this explanation.

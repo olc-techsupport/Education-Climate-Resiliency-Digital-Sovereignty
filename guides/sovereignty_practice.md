@@ -1,6 +1,6 @@
-# Data sovereignty in each track
+# Data sovereignty and governance in each track
 
-Data sovereignty concerns Indigenous Peoples' authority in relationships with data and its use. Governance puts that authority into practice through decisions, responsibilities and review. This buildathon treats it as part of framing and doing the work, not only a final warning before publication.
+Data sovereignty concerns Indigenous Peoples' authority in relationships with data and its use. Governance puts that authority into practice through decisions, responsibilities and review. This buildathon treats it as part of framing and doing the work.
 
 ## Three short activities inside project work
 
@@ -24,10 +24,10 @@ The record describes the notebook's in-memory results. For a future standalone e
 
 ## Sources and adaptation
 
-[GIDA's CARE principles](https://www.gida-global.org/careprinciples) emphasize collective benefit, authority, responsibility and ethics. [IEEE 2890-2025](https://standards.ieee.org/ieee/2890/10318/) describes a recommended practice for provenance of Indigenous Peoples' data. These are educational references; OST RRB and OLC IRB approved data governance is in process. Locally chosen protocols and authorized direction remain the priority over national or international standards. FAIR and OCAP® may be discussed using the distinctions in [data governance](data_governance.md).
+[GIDA's CARE principles](https://www.gida-global.org/careprinciples) emphasize collective benefit, authority, responsibility and ethics. [IEEE 2890-2025](https://standards.ieee.org/ieee/2890/10318/) describes a recommended practice for provenance of Indigenous Peoples' data. These are educational references; OST RRB and OLC IRB approved data governance is in process while undergoing review and alignment. Locally chosen protocols and authorized direction remain the priority over national or international standards. FAIR and OCAP® may be discussed using the distinctions in [data governance](data_governance.md).
 
 ## Mentor prompts
 
 Ask what changed in the student's question or claim after considering representation and authority. Welcome an unresolved answer. Distinguish a proposed benefit from a demonstrated benefit, and a person consulted from a person with decision authority. Do not assess how much cultural knowledge a student discloses. Students can use a hypothetical request or decline to discuss protected context.
 
-Assessment remains the seven-question presentation. Look for one concrete governance decision, revised claim or unresolved question with a next step, especially in questions 4–7. Do not add an eighth presentation question or require finished figures.
+Assessment remains the seven-question presentation. Look for one concrete governance decision, revised claim or unresolved question with a next step, especially in questions 4–7.                   

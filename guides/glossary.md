@@ -16,9 +16,9 @@
 
 **Gauge:** A monitoring station that measures conditions such as streamflow at a specific location.
 
-**PDSI:** Palmer Drought Severity Index, a regional moisture indicator. Negative values are relatively dry and positive values are relatively wet. It does not directly measure every local water condition.
+**PDSI:** Palmer Drought Severity Index, a regional moisture indicator. Negative values are relatively dry and positive values are relatively wet. 
 
-**Proxy:** A measurable substitute for something harder to measure. Roads, for example, do not directly measure community vulnerability.
+**Proxy:** A measurable substitute for something harder to measure. Roads, for example, do not directly measure community vulnerability, but they can be a proxy for it (along with other data).
 
 **p-value:** Under a statistical model, a measure of how incompatible the observed result is with a no-effect assumption. It is not the probability that a conclusion is true.
 
@@ -26,7 +26,7 @@
 
 **Rolling window:** A calculation repeatedly applied to nearby observations, such as each group of seven consecutive days.
 
-**Statistical significance:** A threshold-based statistical judgment. It does not automatically mean a result is large, important, causal, or locally meaningful.
+**Statistical significance:** A threshold-based statistical judgment. 
 
 **Normalization:** Converting unlike measurements to a common scale. The formula embeds assumptions and should be documented.
 

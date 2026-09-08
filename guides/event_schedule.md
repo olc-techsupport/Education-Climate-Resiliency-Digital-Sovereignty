@@ -31,7 +31,7 @@ All times are event-local. The time blocks below preserve the organizers’ draf
 
 ## Scope within the scheduled blocks
 
-Each team develops its own question using the available local data. The three pathways are the core activities. Use prepared machines and files without internet access, installation or data refresh during the event.
+Each team develops its own question.                                           
 
 Interested teams may use the [optional xarray extension](../challenges/optional_xarray_cube.md) during day-one project time if a prepared machine and offline-tested workflow are available. It adds no required session or deliverable. Cubedynamics implementation is deferred to a later iteration after feasability testing at OLC. Preserve the full final hour for student sharing.
 
@@ -54,7 +54,7 @@ Continue focused work until about 4:15, then pair teams for feedback and complet
 
 ### September 16, 9:00–10:00: finish the analysis
 
-Use 9:00–9:10 for team check-ins, 9:10–9:45 for the remaining task, and 9:45–10:00 for source/coverage checks and selecting the final presentation. Avoid adding a new dataset or major dependency at this stage. A well-explained limitation is an acceptable result.
+Use 9:00–9:10 for team check-ins, 9:10–9:45 for the remaining task, and 9:45–10:00 for source/coverage checks and selecting the final presentation. A well-explained limitation is an acceptable result.
 
 ### September 16, 10:15–11:45: finalize and share within the workshop
 
@@ -67,4 +67,4 @@ Students present what they learned, any work they created, uncertainty, future p
 
 ## Sovereignty checkpoints during project work
 
-Mentors support the three short notebook activities: who shapes the question, what the data represents, and what changes before reuse/sharing. Fit these into the existing student-work blocks and presentation preparation before 10:45 on September 16. There is no added lecture or activity during the final student sharing hour. Students use their provenance and decision notes in the existing seven presentation questions.
+Mentors support the three short notebook activities: who shapes the question, what the data represents, and what changes before reuse/sharing. Fit these into the existing student-work blocks and presentation preparation before 10:45 on September 16. Students use their provenance and decision notes in the existing seven presentation questions.
