@@ -1,0 +1,44 @@
+{
+  "sources": [
+    {
+      "file": "noaa_climate_division_pdsi.txt",
+      "url": "https://www.ncei.noaa.gov/pub/data/cirs/climdiv/climdiv-pdsidv-v1.0.0-20260806",
+      "accessed_utc": "2026-08-24T19:51:38.747473+00:00",
+      "status": "downloaded",
+      "bytes": 4449984,
+      "sha256": "1b8039257ebf2dbdc28dc920b3b574519c21bea527b59830bd86ba1f2f4da2eb"
+    },
+    {
+      "file": "usgs_nwis_06446000_1990_2024.rdb",
+      "url": "https://waterservices.usgs.gov/nwis/dv/?format=rdb&sites=06446000&startDT=1990-01-01&endDT=2024-12-31&parameterCd=00060&statCd=00003",
+      "accessed_utc": "2026-08-24T19:51:38.747473+00:00",
+      "status": "downloaded",
+      "bytes": 419155,
+      "sha256": "5309b831d7ede848a5650c3d3c8cb9aa8740395d32ca75e7e033fe7e985bb521"
+    },
+    {
+      "file": "usgs_nwis_06446500_1990_2024.rdb",
+      "url": "https://waterservices.usgs.gov/nwis/dv/?format=rdb&sites=06446500&startDT=1990-01-01&endDT=2024-12-31&parameterCd=00060&statCd=00003",
+      "accessed_utc": "2026-08-24T19:51:38.747473+00:00",
+      "status": "downloaded",
+      "bytes": 266222,
+      "sha256": "9e50b20f9578515cbbdb6598bd006785e8f645ed17849bd3a0e86b75c5697f60"
+    },
+    {
+      "file": "usgs_nwis_06447000_1990_2024.rdb",
+      "url": "https://waterservices.usgs.gov/nwis/dv/?format=rdb&sites=06447000&startDT=1990-01-01&endDT=2024-12-31&parameterCd=00060&statCd=00003",
+      "accessed_utc": "2026-08-24T19:51:38.747473+00:00",
+      "status": "downloaded",
+      "bytes": 415115,
+      "sha256": "ecd4b12299547f0f9df6d7faa5b62f35004c9c9cd16247b05f8e9d6a2c97f200"
+    },
+    {
+      "file": "usgs_nwis_06447500_1990_2024.rdb",
+      "url": "https://waterservices.usgs.gov/nwis/dv/?format=rdb&sites=06447500&startDT=1990-01-01&endDT=2024-12-31&parameterCd=00060&statCd=00003",
+      "accessed_utc": "2026-08-24T19:51:38.747473+00:00",
+      "status": "downloaded",
+      "bytes": 418950,
+      "sha256": "cb83854eacfaeb5976e871aee567ce9dd37b927d792fec1a8ef28dd2f4f0afef"
+    }
+  ]
+}
